@@ -42,11 +42,22 @@ Highly skilled Front End Developer with expertise in creating custom web apps, w
 
 Notably, I have successfully developed an NFT minting site for Avium World (https://twitter.com/aviumworld?lang=en), which garnered an exceptional response of over 10,000 submissions within a span of just two days. This accomplishment showcases my ability to deliver highly engaging and impactful web solutions.
 
-Additionally, I have successfully created an automation system for PowerPoint slides within the company, enabling staff members to easily generate slides with various templates, including tables, overviews, Excel slides with bar charts, pie charts, tables, and image uploads. This automation solution streamlines the process and enhances productivity for internal use, showcasing my ability to develop efficient and user-friendly tools to meet specific organizational needs.
+Additionally, I have successfully created an automation system for PowerPoint slides within the company, 
+![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/b0bcd68c-999e-403b-b05f-c73411ddd3b3)
+![file automation - Trim](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/169f655b-8776-4de9-bae5-f5d88f8eae94)
+enabling staff members to easily generate slides with various templates, including tables, overviews, Excel slides with bar charts, pie charts, tables, and image uploads. This automation solution streamlines the process and enhances productivity for internal use, showcasing my ability to develop efficient and user-friendly tools to meet specific organizational needs.
 
-Also im one of the 2 developers whom developed ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/731f6e2e-25ac-4b0d-9398-1d2f4ef204cc)
+Also im one of the 2 developers whom developed where i was fortunate to work with razer payment integration ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/731f6e2e-25ac-4b0d-9398-1d2f4ef204cc)
+and also im among developers whom created AMD campaign webpages for their events and this page https://www.amd-malaysia.com/
+Furthermore, I have contributed to the development of an event organization automation application called "AttendMy" specifically designed for company use during client-hosted events.
+![attend (1)](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/89387dd9-41e4-4417-a855-bebcfdb709eb)
+This application streamlines event management tasks, including attendee registration, ticketing, session scheduling, and communication, the events surveys are dynamiccaly created from cms so the survey can be done for any events and multiple types of surveys can done , also some simple yet awesome date checker is implemented to allow or not allow user to use or answer the survey. By creating this app, I have demonstrated my ability to build comprehensive solutions that improve efficiency and enhance the client's event experience.
 
-Furthermore, I have contributed to the development of an event organization automation application called "AttendMy" specifically designed for company use during client-hosted events. This application streamlines event management tasks, including attendee registration, ticketing, session scheduling, and communication. By creating this app, I have demonstrated my ability to build comprehensive solutions that improve efficiency and enhance the client's event experience.
+Finally while working for Double Dot company i have created a website that deals with buying , leasing , renting housing property or land property , thats where i was able to learn and integrate stripe payment and some cool google maps api integration ,  while also getting chance to work with aws S3 api to upload and view image pdf while also enjoy building the site.
+
+![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/2a4c9fae-d42b-4569-8d6c-8759de5bd087)
+![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/60a3a4bc-6247-48d5-9d13-19db7dad8977)
+
 
 For any further inquiries or references, please feel free to reach out to my previous employer, Soon Hen Liew, from Double Dot. You can find his profile on LinkedIn at https://my.linkedin.com/in/soon-hen-liew-3b4533106?trk=org-employees.
 
