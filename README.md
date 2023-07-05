@@ -44,6 +44,7 @@ Notably, I have successfully developed an NFT minting site for Avium World (http
 
 Additionally, I have successfully created an automation system for PowerPoint slides within the company, enabling staff members to easily generate slides with various templates, including tables, overviews, Excel slides with bar charts, pie charts, tables, and image uploads. This automation solution streamlines the process and enhances productivity for internal use, showcasing my ability to develop efficient and user-friendly tools to meet specific organizational needs.
 
+Also im one of the 2 developers whom developed ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/731f6e2e-25ac-4b0d-9398-1d2f4ef204cc)
 
 Furthermore, I have contributed to the development of an event organization automation application called "AttendMy" specifically designed for company use during client-hosted events. This application streamlines event management tasks, including attendee registration, ticketing, session scheduling, and communication. By creating this app, I have demonstrated my ability to build comprehensive solutions that improve efficiency and enhance the client's event experience.
 
