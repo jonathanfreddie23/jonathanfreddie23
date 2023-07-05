@@ -33,7 +33,11 @@ that i forgot to build my personal portfolio hahaha guest now is the time july 2
 
 proof that i was a programmer hahahaha.
 
+During time at Rhingle.
+
 ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/70a07d70-3f70-4e0b-9a90-3891fd938199)
+
+During time at Double Dot.
 
 ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/63b34431-c605-4397-8f6f-5595b7084215)
 
