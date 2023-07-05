@@ -61,8 +61,6 @@ Finally while working for Double Dot company i have created a website that deals
 
 For any further inquiries or references, please feel free to reach out to my previous employer, Soon Hen Liew, from Double Dot. You can find his profile on LinkedIn at https://my.linkedin.com/in/soon-hen-liew-3b4533106?trk=org-employees.
 
-For any further inquiries or references, please feel free to reach out to my previous employer, Soon Hen Liew, from Double Dot. You can find his profile on LinkedIn at https://my.linkedin.com/in/soon-hen-liew-3b4533106?trk=org-employees.
-
 As a dedicated professional committed to pushing the boundaries of web development, I consistently exceed client expectations and deliver innovative solutions. I am poised to make a valuable contribution to any project.
 
 
