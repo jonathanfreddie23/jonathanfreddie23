@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 Front End Developer
@@ -61,6 +62,13 @@ Finally while working for Double Dot company i have created a website that deals
 
 ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/2a4c9fae-d42b-4569-8d6c-8759de5bd087)
 ![image](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/60a3a4bc-6247-48d5-9d13-19db7dad8977)
+
+![admin](https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/28b65efe-d34a-4933-b00a-113f0da792cf)
+
+https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/615a131e-94b6-43ed-89e9-eb05eb13777f
+
+https://github.com/jonathanfreddie23/jonathanfreddie23/assets/34409979/76ac48fb-40df-49d9-a2c0-21606a2a3dbd
+
 
 
 For any further inquiries or references, please feel free to reach out to my previous employer, Soon Hen Liew, from Double Dot. You can find his profile on LinkedIn at https://my.linkedin.com/in/soon-hen-liew-3b4533106?trk=org-employees.
