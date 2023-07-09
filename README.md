@@ -24,8 +24,6 @@ Stacks and Tools use:
 -scss
 -NodeJs
 
-Favorite API Docs: Postman
-
 Favorite IDE: VSCode
 
 
